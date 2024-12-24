@@ -94,7 +94,7 @@ export default function Index() {
     <Container maxWidth="sm">
       <Box component="div" mt={6}>
         <Typography variant="h3" component="h3" align="center" sx={{ fontWeight: 600 }} className="notranslate">
-          Welcome to JKT48 Member Sorter!
+          Welcome to JKT48 Member Sorter! - Modify by Nailar
         </Typography>
         <Typography variant="h5" component="h5" align="center" sx={{ fontWeight: 400 }} mt={2}>
           A fanmade JKT48 website to sort your favorite JKT48 members

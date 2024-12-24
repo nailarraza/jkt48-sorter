@@ -49,7 +49,7 @@ export default function MyApp(props) {
           name="description"
           content={seoDescription}
         />
-        <meta property="og:title" content="JKT48 Member Sorter" />
+        <meta property="og:title" content="JKT48 Member Sorter - Modify by Nailar" />
         <meta
           property="og:description"
           content={seoDescription}
