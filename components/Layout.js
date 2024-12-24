@@ -45,7 +45,7 @@ const Navbar = ({ children }) => {
               rel="noopener noreferrer"
               sx={{textDecoration: 'none'}}
             >
-              #JecOfAllTrades #GebrakanJANDA #JessicaSukiNanda #JESSINATION 
+               #JecOfAllTrades #GebrakanJANDA #JessicaSukiNanda #JESSINATION 
             </MuiLink>
           </Typography>
           <Copyright />
