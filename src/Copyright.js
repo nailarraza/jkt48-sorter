@@ -6,7 +6,7 @@ export default function Copyright() {
   return (
     <Typography variant="h6" color="primary" align="center" sx={{textTransform:'uppercase', fontSize: '1.2rem', fontWeight: 600}}>
       Copyright © {new Date().getFullYear()},{' '}
-      <MuiLink color="inherit" href="https://github.com/adityaiwd/j-sorter" target="_blank" rel="noopener noreferrer">
+      <MuiLink color="inherit" href="https://razagopo.my.id" target="_blank" rel="noopener noreferrer">
        jkt48membersorter
       </MuiLink>
     </Typography>

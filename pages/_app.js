@@ -39,12 +39,12 @@ export default function MyApp(props) {
       <Head>
         <title>JKT48 Member Sorter</title>
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:title" content="JKT48 Member Sorter" />
+        <meta name="twitter:title" content="JKT48 Member Sorter - Modify by Nailar" />
         <meta
           name="twitter:description"
           content={twitterSeoDescription}
         />
-        <meta name="twitter:image" content="https://jkt48membersorter.vercel.app/logo2.png" />
+        <meta name="twitter:image" content="logo2.png" />
         <meta
           name="description"
           content={seoDescription}
@@ -54,7 +54,7 @@ export default function MyApp(props) {
           property="og:description"
           content={seoDescription}
         />
-        <meta property="og:url" content="https://jkt48membersorter.vercel.app" />
+        <meta property="og:url" content="https://jkt48-sorter.vercel.app" />
         <meta property="og:type" content="website" />
         <meta name="viewport" content="initial-scale=1, width=device-width" />
 

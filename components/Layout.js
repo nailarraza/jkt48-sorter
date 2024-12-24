@@ -40,12 +40,12 @@ const Navbar = ({ children }) => {
           >
             <MuiLink
               color="inherit"
-              href="https://x.com/Liamelior/status/1793670840263078342"
+              href="https://x.com/C_Jessination48/status/1871495664838033692"
               target="_blank"
               rel="noopener noreferrer"
               sx={{textDecoration: 'none'}}
             >
-              #AurelliaNoHoshi
+              #JecOfAllTrades #GebrakanJANDA #JessicaSukiNanda #JESSINATION 
             </MuiLink>
           </Typography>
           <Copyright />
