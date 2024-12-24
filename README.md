@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![JKT48 Member Sorter Screen Shot][product-screenshot]](https://jkt48membersorter.vercel.app/)
+[![JKT48 Member Sorter Screen Shot][product-screenshot]](https://jkt48-sorter.vercel.app/)
 
 This is a fanmade website to sort your favorite members in JKT48 based on your filter by their Status and Generations. Also this website is an enhanced website from [Rebornian48's JKT48sorter](https://rebornian48.github.io/jkt48sorter/).
 
